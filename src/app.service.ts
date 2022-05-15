@@ -6,11 +6,11 @@ export class AppService {
     const salute = [
       {
         id: 1,
-        salute: 'First Element testing2',
+        salute: 'Probando',
         properties: {
-          name: 'Item 1',
-          lastname: 'Item 1',
-          country: 'Item 1'
+          name: 'Articulo 1',
+          lastname: 'Articulo 1',
+          country: 'Articulo'
         }
       },
       {
